@@ -7,6 +7,6 @@ REFERENCE (for original YOLOv3):
 
 Result
 ![alt text](https://github.com/hyestt/YOLO_Detection/blob/master/friends.jpg)
-![alt text](https://github.com/hyestt/YOLO_Detection/blob/master/result.jpg)
+![alt text](https://github.com/hyestt/YOLO_Detection/blob/master/result.png)
 
               
